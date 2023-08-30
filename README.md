@@ -1,2 +1,2 @@
 # Python
-Different exercises i made while learning python and some projects.
+Different exercises i completed while learning python and some projects.
